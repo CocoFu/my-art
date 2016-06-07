@@ -1,0 +1,66 @@
+
+
+.heading
+{
+color:grey; 
+font-size:40px
+}
+
+
+.description
+{
+color:darkgrey; 
+font-size:30px;
+border: 5px dotted darkblue;
+background-color: Cyan;
+padding: 50px 30px 50px 80px
+
+
+}
+
+.chart {
+    width: 500px;
+    height: 500px;
+}
+
+.circ1 {
+    stroke: red; 
+    fill: white;
+    stroke-width: 5;
+}
+.circ2 {
+    stroke: orange; 
+    fill: white;
+    stroke-width: 5;
+}
+.circ3 {
+    stroke: yellow; 
+    fill: white;
+    stroke-width: 5;
+}
+.circ4 {
+    stroke: green; 
+    fill: white;
+    stroke-width: 5;
+}
+.circ5 {
+    stroke: Cyan; 
+    fill: white;
+    stroke-width: 5;
+}
+.circ6 {
+    stroke: blue; 
+    fill: white;
+    stroke-width: 5;
+}
+.circ7 {
+    stroke: purple; 
+    fill: white;
+    stroke-width: 5;
+}
+
+.rec1
+{fill:blue;stroke:pink;stroke-width:5;fill-opacity:0.1;stroke-opacity:0.9}
+
+.poly
+{fill:blue;stroke:pink;stroke-width:5;fill-opacity:0.1;stroke-opacity:0.9}
